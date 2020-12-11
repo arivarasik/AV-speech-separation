@@ -11,7 +11,7 @@ description: Blog post for EE 380L Data Mining Project
 
 [comment]: # (Abstract: 1-2 Paragraphs)
 
-The visual component of human speech provides rich information about the acoustic signal that can be exploited for source separation. For our project, we train a model to estimate the time-frequency audio mask that separates two speakers in a single channel recording that utilizes the visual information of the speech. Over 5000 videos were retrieved from the [AVspeech][2] dataset and combined into pairs to form speech mixtures and ground truth labels. To our knowledge, this project is the first publicly available end-to-end implementation for this task.
+
 
 [comment]: # (Introduction & Background / Problem being addressed and why it’s important / Related work / approach and rationale / contribution or novel characteristics)
 
